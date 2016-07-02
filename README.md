@@ -7,6 +7,6 @@ va be modificato da rai-locale
 
 MODIFICATO da OZZAC 2
 
-modifica raicast-piccola
+modifica raicast-piccola NUMERO 2
 
 Appena modificato da WebStorm
