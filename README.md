@@ -5,6 +5,10 @@ per rai2-br
 
 va be modificato da rai-locale
 
+MODIFICATO da OZZAC 2
+
+modifica raicast-piccola
+
 Appena modificato da WebStorm
 
 MODIFICATO da OZZAC 2
