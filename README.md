@@ -5,6 +5,8 @@ per rai2-br
 
 va be modificato da rai-locale
 
+proviamo a modificare da rai-sola lo stesso file
+
 MODIFICATO da OZZAC 2
 
 modifica raicast-piccola NUMERO 2
