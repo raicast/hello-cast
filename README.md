@@ -8,8 +8,9 @@ per rai2-br
 
 va be modificato da rai-locale
 
-proviamo a modificare da rai-sola lo stesso file ORA_DA_OZZAC
 
+proviamo a modificare da rai-sola lo stesso file ORA_DA_OZZAC ORA_DA_RAI_SOLA
+ß
 MODIFICATO da OZZAC 2
 
 modifica raicast-piccola NUMERO 2
@@ -23,3 +24,4 @@ CIAO DA MASTER 2
 CIAO DA OZZAC 2
 
 altra modifica
+ß
