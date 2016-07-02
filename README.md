@@ -7,4 +7,6 @@ va be modificato da rai-locale
 
 MODIFICATO da OZZAC 2
 
+modifica raicast-piccola
+
 Appena modificato da WebStorm
