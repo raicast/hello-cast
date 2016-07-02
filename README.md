@@ -8,7 +8,7 @@ per rai2-br
 
 va be modificato da rai-locale
 
-proviamo a modificare da rai-sola lo stesso file
+proviamo a modificare da rai-sola lo stesso file ORA_DA_OZZAC
 
 MODIFICATO da OZZAC 2
 
